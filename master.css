@@ -1,0 +1,237 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.title {
+    color: green;
+}
+
+.nav {
+  
+    display: flex;
+
+    justify-content: space-between;
+    align-items: center;
+background-color:white;
+
+}
+
+.list {
+    display: inline;
+   padding-right: 3.6rem;
+}
+
+.link {
+    text-decoration: none;
+    color: black;
+ font-size: 13px;
+}
+.landing_section{
+    text-align: center;
+    padding:15rem;
+    background-image: url('../images/ri.jpeg.jpg');
+    background-size: cover;
+}
+.content_subheading{
+    color: green;
+}
+.btn_primary{
+    border-radius: 10px;
+    background-color: green;
+    color: white;
+    padding: 14px;
+    border: none;
+    cursor: pointer;
+}
+.video_section{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 50px;
+}
+.highlighted_text{
+    color: green;
+}
+.video_frame{
+    padding:44px ;
+}
+.section_t{
+    display: flex;
+    margin-left: 414px;
+    margin-top:-44px;
+}
+.oz{
+    
+    padding-top: 33px;
+    
+    
+    margin-left: 53px;
+  }
+
+.text{
+    color: green;
+}
+.img img{
+    height:335px
+}
+.h5{
+    
+    width: 174px;
+}
+.browse{
+    padding-top: 10px;
+margin-bottom: -26px;
+}
+.how_work{
+    font-style: inherit;
+}
+nav{
+    position: sticky;
+    top: 0;
+}
+.color{
+    color: green;
+}
+.section_t2{
+    display: flex;
+    margin-left: 414px;
+    margin-top:-44px;
+    flex-direction: row-reverse;
+    margin-right: 743px;
+justify-content: center;
+margin-top: 87px;
+}
+
+.img3{
+    width: 30%;
+
+}
+.img4{
+    height: 336px;
+    margin-left: 95px;
+  }
+.speciality{
+    text-align: center;
+margin-top: 131px;
+}
+.meal{
+    color: green;
+}
+.txt_img{
+    display: flex;
+    justify-content: space-around;
+    background-color: white;
+}
+.meal_grid{
+    display: grid;
+    grid-template-columns: auto auto;
+    gap: 38px;
+    margin-top: 54px;
+    row-gap: 51px;
+    
+
+
+}
+.meal_imgs{
+   width: 15rem;
+   box-shadow: -16px 8px 21px 1px rgba(0,0,0,0.27);
+-webkit-box-shadow: -16px 8px 21px 1px rgba(0,0,0,0.27);
+-moz-box-shadow: -16px 8px 21px 1px rgba(0,0,0,0.27);
+  
+   
+   
+
+}
+.meal_txt{
+    margin-top: 147px;
+margin-left: 383px;
+font-style:inherit; ;
+}
+.txt_meal{
+    background-color: white;
+    color: green;
+   
+    border-radius: 19px;
+    text-align: center;
+
+}
+.txt_meal{
+    position: absolute;
+    margin-top: -43px;
+margin-left: -7px;
+font-size: x-small;
+width: 137px;
+
+}
+.meal_head{
+    position: relative;
+    border-radius: 223px;
+    cursor: pointer;
+  
+
+}
+.meal_head :hover{
+    cursor: pointer;
+}
+.parent_bubala{
+padding: 80px 425px;
+}
+.bubala{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: justify;
+}
+.author{
+    text-align: right;
+
+
+}
+.featured{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  
+
+}
+.featimg{
+    width: 24rem;
+    box-shadow: -16px 8px 21px 1px rgba(0,0,0,0.27);
+    -webkit-box-shadow: -16px 8px 21px 1px rgba(0,0,0,0.27);
+    -moz-box-shadow: -16px 8px 21px 1px rgba(0,0,0,0.27);
+      
+}
+.img_feat{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 23px;
+    
+}
+.featrec{
+    color: green;
+}
+.smalltxtfeat{
+    text-align: center;
+    position: relative;
+    padding-left: 25px;
+margin-right: 39px;
+margin-bottom: 20px;
+padding-top: 13px;
+color: green;
+}
+.txt1feat{
+    position: absolute;
+    background-color:white;
+    margin-top: -21px;
+    border-radius: 19px;
+
+}
+
+
+
+
+
+
+
+
+
